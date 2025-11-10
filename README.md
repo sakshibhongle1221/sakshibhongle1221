@@ -1,16 +1,29 @@
-## Hi there 👋
+# Hey there!! 👾
 
-<!--
-**sakshibhongle1221/sakshibhongle1221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Header GIF](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeXhnaDUwOHExY3hxazF1bHI4cDN6NW5ndndsZ3NodWNuOXJpZWk3YiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zOvBKUUEERdNm/giphy.gif)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 👨‍💻 About Me
+I'm **Sakshi Bhongle**   
+- 🎓 B.Tech student passionate about **Full Stack Development**
+- 🌱 Currently learning **Next.js** and **Node.js**
+- 😁 Always learning, always building — “Consistency beats intensity.”  
+
+---
+
+### 🛠️ Languages and Tools
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="40" height="40"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" width="40" height="40"/>
+</p>
+
+---
+
+### 🔗 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)
+[![Email](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail)](mailto:your-email@gmail.com)
