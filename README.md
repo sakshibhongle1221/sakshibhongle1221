@@ -25,8 +25,8 @@ I'm **Sakshi Bhongle**
 ---
 
 ### 🔗 Connect With Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/https://www.linkedin.com/in/sakshi-bhongle-b8b408291)
-[![Email](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail)](mailto:sakshibhognle1221@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sakshi-bhongle-b8b408291)
+[![Email](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail)](sakshibhognle1221@gmail.com)
 [![X (Twitter)](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Sakshibhongle?t=oSBkEbXagmHQiilJ804Gsg&s=09)
 
 
