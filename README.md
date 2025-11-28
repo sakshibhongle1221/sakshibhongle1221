@@ -37,9 +37,13 @@ I'm **Sakshi Bhongle**
 
 ---
 
+
 ### 🔗 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/sakshi-bhongle-b8b408291)
 [![Email](https://img.shields.io/badge/Email-white?style=for-the-badge&logo=gmail)](https://mail.google.com/mail/?view=cm&to=sakshibhongle1221@gmail.com)
 [![X (Twitter)](https://img.shields.io/badge/X-black?style=for-the-badge&logo=x&logoColor=white)](https://x.com/Sakshibhongle?t=oSBkEbXagmHQiilJ804Gsg&s=09)
 
+---
+
+[![@sakshibhongle1221's Holopin board](https://holopin.me/sakshibhongle1221)](https://holopin.io/@sakshibhongle1221)
 
